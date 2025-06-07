@@ -5,6 +5,7 @@ My name is Josué Weiss, and I am currently a physics student at the University 
 
 This repository is a personal collection of Python projects related to computational physics.
 It focuses primarily on:
+
 	•	Scientific simulations,
 	•	Numerical solutions of differential equations,
 	•	Implementation of classical and modern numerical techniques,
